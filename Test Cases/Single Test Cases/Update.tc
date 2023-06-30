@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37f89efe-0703-45d9-9875-5be0e7d97da6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e644f103-2a58-4654-8d23-737d9a6d44e5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ecae1a92-a7c0-4c6c-be77-24ee0d264320</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'morpheus'</defaultValue>
+      <description></description>
+      <id>e644f103-2a58-4654-8d23-737d9a6d44e5</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'staff'</defaultValue>
+      <description></description>
+      <id>ecae1a92-a7c0-4c6c-be77-24ee0d264320</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

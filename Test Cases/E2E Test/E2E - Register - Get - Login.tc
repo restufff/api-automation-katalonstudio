@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E2E - Register - Get - Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6066d0fa-31b7-496b-a25d-9e5d4edb534f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e0b681e-8631-4158-b5bc-617d7a250e02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b44a50e-caa7-45a1-a3a6-863a7987307b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>674e9f96-2804-42b0-8fb8-b5e9b6a2617d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'janet.weaver@reqres.in'</defaultValue>
+      <description></description>
+      <id>4e0b681e-8631-4158-b5bc-617d7a250e02</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>7b44a50e-caa7-45a1-a3a6-863a7987307b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>674e9f96-2804-42b0-8fb8-b5e9b6a2617d</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variable>
+</TestCaseEntity>
